@@ -19,3 +19,8 @@
 #### 08.cpp : Implement Cartesian Virtual Topology in MPI. [CODE](08.cpp)
 #### 09.cpp : Design a MPI program that uses blocking send/receive routines and nonblocking send/receive routines. [CODE](09.cpp)
 #### 10.cpp : Multiply two square matrices (1000, 2000 or 3000 dimensions). Compare the performance of a squential and parallel algorithm using openMP. [CODE](10.cpp)
+
+
+<h2>This HPC Lab programs was done by Anubhav Maheshwari. 
+Credit goes to him. You can find him on github
+https://github.com/anubhavmaheshwari0805/</h2>
